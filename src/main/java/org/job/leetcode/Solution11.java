@@ -1,6 +1,4 @@
-package org.job.leetcode.array;
-
-import java.util.ArrayList;
+package org.job.leetcode;
 
 //盛最多水的容器
 public class Solution11 {

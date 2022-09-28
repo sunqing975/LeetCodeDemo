@@ -1,4 +1,4 @@
-package org.job.leetcode.array;
+package org.job.leetcode;
 
 // 删除有序数组中的重复项
 public class Solution26 {

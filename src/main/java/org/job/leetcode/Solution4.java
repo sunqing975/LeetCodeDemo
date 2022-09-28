@@ -1,4 +1,4 @@
-package org.job.leetcode.array;
+package org.job.leetcode;
 // 寻找两个正序数组的中位数
 public class Solution4 {
     public static void main(String[] args) {
